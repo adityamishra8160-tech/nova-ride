@@ -93,7 +93,7 @@ const Home = () => {
       <footer style={s.footer}>
         <div className="container" style={s.footerInner}>
           <span style={s.footerLogo}>🚗 Nova Ride Easily</span>
-          <span style={{ color: '#9ca3af', fontSize: '0.83rem' }}>© 2024 Nova Ride. All rights reserved.</span>
+          <span style={{ color: '#9ca3af', fontSize: '0.83rem' }}>© 2026 Nova Ride. All rights reserved.</span>
         </div>
       </footer>
     </div>
